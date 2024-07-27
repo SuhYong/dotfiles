@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeselyn977@gmail.com
+	name = suhyong
